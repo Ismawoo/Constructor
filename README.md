@@ -12,4 +12,5 @@ To execute this script you need to moove this in your project folder and change 
   
 # Delete View/Controller
 Delete view/controller 
-   php constructor.php delete home
+
+php constructor.php delete home
